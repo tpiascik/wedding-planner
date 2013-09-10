@@ -1,0 +1,10 @@
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Wedding Planner\Wedding Planner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Wedding Planner\Wedding Planner\obj\x86\Debug\Wedding_Planner.Form1.resources
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Wedding Planner\Wedding Planner\obj\x86\Debug\Wedding_Planner.Properties.Resources.resources
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Wedding Planner\Wedding Planner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Wedding Planner\Wedding Planner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Wedding Planner\Wedding Planner\bin\Debug\Wedding Planner.exe
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Wedding Planner\Wedding Planner\bin\Debug\Wedding Planner.pdb
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Wedding Planner\Wedding Planner\obj\x86\Debug\Wedding Planner.exe
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Wedding Planner\Wedding Planner\obj\x86\Debug\Wedding Planner.pdb
+C:\Documents and Settings\Tom\My Documents\Visual Studio 2010\Projects\Wedding Planner\Wedding Planner\obj\x86\Debug\Wedding_Planner.Form2.resources

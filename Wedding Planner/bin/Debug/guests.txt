@@ -1,0 +1,12 @@
+ID Name Group Food P1
+0 Kasia 0 0 1 1
+1 Destin 0 0 0 1
+2 Konrad 1 0 3 2
+3 Alexandra 1 0 2 2
+4 Mike 0 0 5 -1
+5 Tara 0 0 4 -1
+6 Jon 0 0 -1 -1
+7 Dave 0 0 -1 -1
+8 Elizabeth 0 1 -1 1
+9 Josie 0 1 10 2
+10 Tommy 0 1 9 2
